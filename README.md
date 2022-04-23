@@ -1,2 +1,2 @@
 # Face_recognizer
-Face detection and recognition
+Face detection and recognition with OpenCV and haar-cascade
